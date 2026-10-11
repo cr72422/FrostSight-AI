@@ -1,0 +1,9 @@
+# Example only. Rename to data.yaml and edit after downloading a labeled dataset.
+# Ensure these paths and class names match your actual dataset export.
+path: dataset
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: package

@@ -1,0 +1,11 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+yolo26n.pt
+runs/
+.streamlit/secrets.toml
+.DS_Store
+Thumbs.db
+test.jpg
+dataset/
